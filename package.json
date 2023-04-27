@@ -1,0 +1,22 @@
+{
+	"name": "game",
+	"version": "1.0.0",
+	"description": "platform",
+	"main": "index.js",
+	"scripts": {
+		"watch:sass": "node-sass sass/main.scss css/style.css -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sam22may/platform-game.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sam22may/platform-game/issues"
+	},
+	"homepage": "https://github.com/sam22may/platform-game#readme",
+	"dependencies": {
+		"node-sass": "^8.0.0"
+	}
+}
